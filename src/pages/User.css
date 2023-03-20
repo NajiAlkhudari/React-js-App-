@@ -1,0 +1,167 @@
+#head-one {
+    font-family: "PlusJakartaSans-ExtraBold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 1.1142857142857143;
+    color : #f5f5f5,
+
+
+    
+
+}
+
+
+
+#p{
+  /* font-family: 'World Athletics' , Arial , sans-serif; */
+  font-family: var(--font-family-regular);
+  text-transform: uppercase;
+  width: 50%;
+  padding-bottom: 3%;
+  border-bottom: 1px solid #333;
+  /* margin: 2; */
+  margin-top: 60px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  padding-left : 15%;
+}
+#component-one1{
+   
+        max-width: 1000px;
+        max-width: var(--max-content-width);
+        /* padding: 0.10em 0; */
+        display: flex;
+        /* background :#37474f;   */
+        background :#fafafa;  
+
+        font-weight: bold ;
+      
+        
+      }
+      #component-login{
+   
+        max-width: 1000px;
+        max-width: var(--max-content-width);
+        /* padding: 0.10em 0; */
+        display: flex;
+        /* background :#37474f;   */
+        background :#fafafa;  
+
+        font-weight: bold ;
+        color:#b3e5fc
+      
+        
+      }
+
+      #component-two{
+   
+        max-width: 1400px;
+        max-width: var(--max-content-width);
+        margin: auto;
+        padding: 0.65em 0;
+        display: flex;
+        background :#212121;  
+        font-weight: bold 
+
+      }
+
+
+.all{
+    background:  #fafafa;  
+    
+
+}
+
+
+#p1{
+
+  font-size: 1.625rem;
+  color: #1769aa;
+font-weight : "bold"  ;
+border-bottom: 1px solid #333;
+
+
+
+}
+#p2{
+  font-size: 2.625rem;
+  color: #212121;
+  font-weight : "bold"  ;
+padding-left: 10%;
+border-bottom: 1px solid #333;
+width:50%;
+}
+
+
+#h10{
+  /* font-size: 2.625rem;
+  padding-left:35%;
+  color: #212121; */
+  font-family: var(--font-family-regular);
+  text-transform: uppercase;
+  width: 70%;
+  padding-bottom: 3%;
+  /* margin: 2; */
+  margin-top: 225px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  padding-left : 5%;
+  font-weight : "bold"  ;
+  font-size: 3.50rem;
+  color: #0277bd;
+}
+#h100{
+    /* font-size: 2.625rem;
+  padding-left:35%;
+  color: #212121; */
+  width: 150%;
+  padding-bottom: 3%;
+  /* margin: 2; */
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 50px;
+  padding-left : 15%;
+  font-size: 1.50rem;
+  color: #212121;
+}
+#h11{
+  font-size: 1.625rem;
+  padding-left:430%;
+  color: #212121;
+
+
+}
+#nav{
+  /* font-family: 'World Athletics' , Arial , sans-serif;
+  font-family: var(--font-family-regular); */
+  color: #f5f5f5;
+  line-height: 4rem;
+  padding-left:40%
+
+
+}
+
+/* #Record2{
+  padding-left: 8%;
+  width: 40%;
+  color: #f5f5f5;
+
+} */
+#h12{
+  font-size: 2.625rem;
+  padding-left:35%;
+  color: #f5f5f5;
+
+}
+#nav2{
+  /* font-family: 'World Athletics' , Arial , sans-serif;
+  font-family: var(--font-family-regular); */
+  color: #f5f5f5;
+  line-height: 4rem;
+  padding-left:40%
+
+
+}
