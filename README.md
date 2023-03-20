@@ -1,2 +1,2 @@
 # React-js-App-
-for mangment trips in kalamoon of university
+for mangment trips in university of kalamoon
